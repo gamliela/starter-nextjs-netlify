@@ -12,7 +12,6 @@ This kit consists of the latest versions of:
 - ESLint (with `react-hooks` plugin)
 - Prettier
 - Netlify
-- CircleCI (WIP)
 
 #### Start Development Server
 
